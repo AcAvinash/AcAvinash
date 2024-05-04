@@ -2,6 +2,7 @@
 <h3 align="center">Transitioning to DevOps Engineering while Nurturing MERN Stack Skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acavinash&label=Profile%20views&color=0e75b6&style=flat" alt="acavinash" /> </p>
+<img alt="Awesome GitHub Profile Readme" src="assets/adding.gif"> </img>
 
 - 🌱 I’m currently learning **Kubernetes**
 
@@ -13,7 +14,6 @@
 
 - 📫 How to reach me **acavinashchauhan5@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
